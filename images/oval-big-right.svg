@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="802px" height="802px" viewBox="0 0 802 802" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.120131341" offset="46.1874203%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd" opacity="0.142140858">
+        <g id="Boo-Landing" transform="translate(-377.000000, -104.000000)" stroke="#979797" fill="url(#linearGradient-1)">
+            <g id="banner" transform="translate(-287.000000, -166.000000)">
+                <circle id="Oval-Copy-3" cx="1065" cy="671" r="400"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
